@@ -2,9 +2,9 @@
 
 ![our-business_1200xx7952-4473-0-416](https://user-images.githubusercontent.com/32233010/132109239-b27bcc4f-f292-4634-8d35-db9e1f837e63.jpg)
 - 🖥️ I am a Software Engineer at [Alphatec Spine](https://atecspine.com/)
-- 🔭 I’m currently working on a BS in Software Development from [GCU](https://www.gcu.edu/)
-- 🌱 I’m currently learning Xamarin forms
-- 💻 Favorite Dev Language: C#
+- 🔭 I have a BS in Software Development from [GCU](https://www.gcu.edu/)
+- 🌱 I’m currently learning Ruby on Rails, React, Kotlin, Swift, Objective-C
+- 💻 Favorite Dev Language: C# and Ruby
 - 🔨 Favorite IDE: Visual Studio/ VS Code
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tim-james-6a59a169/)
